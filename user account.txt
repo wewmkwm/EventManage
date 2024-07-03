@@ -1,0 +1,23 @@
+User
+==========================
+Email   : 
+user@gmail.com
+
+Password: 
+user
+
+Company
+==========================
+Email   : 
+chess@gmail.com
+
+Password: 
+chess
+
+Admin
+==========================
+Email   : 
+admin@gmail.com
+
+Password: 
+admin
